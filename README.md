@@ -106,7 +106,7 @@ cp .env.example .env
 Add your OpenRouter API key:
 
 ```env
-OPENROUTER_API_KEY=your_api_key_here
+MISTRAL_API_KEY=your_api_key_here
 ```
 
 ---
