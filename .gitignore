@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*s.md
+
+# Virtual Environments
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Memory / User Data
+data/memory.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# UV
+.python-version
