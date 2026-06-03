@@ -4,7 +4,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-*s.md
+session.md
 
 # Virtual Environments
 .venv/
